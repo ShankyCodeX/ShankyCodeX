@@ -1,4 +1,4 @@
-# Hi there, I'm Shanky! 👋 👨‍💻
+# Hi there, I'm Sohel! 👋 👨‍💻
 
 I am a final-year **BCA student** (graduating May 2026) based in Maharashtra, India. I am a developer focused on **Java, Python, and Web Development**, with a strong foundation in Data Structures and Algorithms.
 
