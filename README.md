@@ -1,29 +1,106 @@
-# Hi there, I'm Sohel! 👋 👨‍💻
+# 🚀 Go Backend Development Journey
 
-I am a final-year **BCA student** (graduating May 2026) based in Maharashtra, India. I am a developer focused on **Java, Python, and Web Development**, with a strong foundation in Data Structures and Algorithms.
-
-### 🚀 About Me
-- 🎓 Currently in my **6th Semester** of BCA.
-- ☕ Mastering **Java & DSA** .
-- 🐍 Proficient in **Python** for development and problem-solving.
-- 🌐 Building interactive projects with **JavaScript**.
-- 🐧 Comfortable working in **Linux (Mint)** environments.
-
-### 🛠️ Tech Stack & Tools
-**Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-**Web Development:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & OS:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-### 📫 Let's Connect!
-- **LinkedIn:** [sohel-munjewar](https://www.linkedin.com/in/sohel-munjewar-371714242)
-- **Location:** Udgir, Maharashtra, India
+> A self-directed 6-month roadmap to become a backend developer using Go (Golang), targeting product companies in India and remote roles.
 
 ---
-*“Coding the future, one line at a time.”*
+
+## 👨‍💻 About This Repo
+
+This repo documents my complete backend development journey — from Go fundamentals to deploying production-ready APIs. Every project, note, and milestone lives here.
+
+**Stack:** Go · PostgreSQL · Redis · Docker · REST APIs · JWT Auth · CI/CD
+
+---
+
+## 🗺️ Roadmap Overview
+
+### ✅ Phase 1 — Go Fundamentals (Weeks 1–4)
+- Variables, types, control flow, loops
+- Functions, pointers, structs, interfaces
+- Goroutines and channels (concurrency)
+- Error handling patterns
+- Packages and modules (`go mod`)
+
+### 🔧 Phase 2 — REST APIs + PostgreSQL (Weeks 5–8)
+- Build REST APIs using `net/http` and then a framework (Chi / Gin)
+- CRUD operations
+- Connect Go with PostgreSQL (`pgx` / `database/sql`)
+- Database migrations
+- JSON handling and request validation
+
+### 🔐 Phase 3 — Auth + Redis + Docker + Testing (Weeks 9–12)
+- JWT-based authentication
+- Middleware (logging, auth guards, rate limiting)
+- Redis for caching and sessions
+- Unit and integration testing in Go
+- Dockerize the application
+- Docker Compose for multi-container setup
+
+### 🗂️ Phase 4 — Portfolio Projects (Weeks 13–18)
+- **Project 1:** URL Shortener (Go + Redis + PostgreSQL)
+- **Project 2:** REST API with full auth (Go + PostgreSQL + JWT)
+- **Project 3:** (TBD based on job market trends)
+- Write clean READMEs, add Postman collections, deploy projects
+
+### ☁️ Phase 5 — Cloud + CI/CD Basics (Weeks 19–22)
+- Deploy on AWS / Railway / Render
+- GitHub Actions for CI/CD pipelines
+- Basic Linux commands and SSH
+- Environment config and secrets management
+
+### 🧠 Phase 6 — DSA + Job Applications (Weeks 23–26)
+- Arrays, strings, hashmaps, recursion in Go
+- LeetCode easy/medium problems (Go)
+- Resume and GitHub polish
+- Apply to Indian product companies + remote roles
+- Interview prep (Go-specific + system design basics)
+
+---
+
+## 📁 Repo Structure
+
+```
+go-backend/
+├── phase1-fundamentals/
+├── phase2-rest-api/
+├── phase3-auth-docker/
+├── phase4-projects/
+│   ├── url-shortener/
+│   └── auth-api/
+├── phase5-cloud-cicd/
+├── phase6-dsa/
+└── README.md
+```
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tool |
+|---|---|
+| Language | Go (Golang) |
+| Database | PostgreSQL |
+| Cache | Redis |
+| Auth | JWT |
+| Containers | Docker, Docker Compose |
+| Cloud | AWS / Render / Railway |
+| CI/CD | GitHub Actions |
+| Version Control | Git + GitHub |
+
+---
+
+## 🎯 Goal
+
+> First backend developer job offer by **late 2025** — targeting Indian product companies and remote roles.
+
+---
+
+## 📅 Started
+
+April 2025
+
+---
+
+## 📬 Connect
+
+Open to feedback, suggestions, and opportunities!
